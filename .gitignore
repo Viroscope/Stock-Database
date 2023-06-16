@@ -4,6 +4,5 @@
 
 /.env
 env/
-/.vs/Stock-Database/FileContentIndex
 /__pycache__
 /.vs
